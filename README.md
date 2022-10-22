@@ -1,6 +1,6 @@
 ## CURSOS
 
-[**Bootcamp Programmatic Trader &amp; Specialist**](https://skiller.education/programmatic-trader-specialist/): próxima edición 25 de noviembre de 2022.
+[**Bootcamp Programmatic Trader &amp; Specialist**](https://skiller.education/curso-de-compra-programatica/): próxima edición 25 de noviembre de 2022.
 
 ## EVENTOS
 
