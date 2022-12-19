@@ -1,6 +1,6 @@
 ## CURSOS
 
-[**Bootcamp Programmatic Trader &amp; Specialist**](https://skiller.education/curso-de-compra-programatica/): próxima edición 25 de noviembre de 2022.
+[**Bootcamp Programmatic Trader &amp; Specialist**](https://skiller.education/curso-de-compra-programatica/): próxima edición 27 de enero de 2023.
 
 ## EVENTOS
 
@@ -23,6 +23,10 @@
 [**Think with Google**](https://www.thinkwithgoogle.com/marketing-strategies/automation/)
 
 ## LIBROS
+
+[**Libro blanco de la publicidad programática – IAB Spain**](file:///C:/Users/Usuario/Downloads/libro-blanco-programatica-iab-spain-2021-c2.pdf).
+
+[**Programmatic Advertising - Oliver Busch**](https://www.amazon.es/Programmatic-Advertising-Transformation-Data-Driven-Professionals/dp/3319797212): manual fundamental para entender cómo funciona la programática y todas las tecnologías que la rodean.
 
 [**Programmatic Advertising: The Successful Transformation to Automated, Data-Driven Marketing in Real-Time**](https://www.yumpu.com/en/document/view/63733105/pdf-download-programmatic-advertising-the-successful-transformation-to-automated-data-driven-marketing-in-real-time-full-description)
 
